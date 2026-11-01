@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "IronPythonPlugin": {
+      "commandName": "Project"
+    },
+    "RunWithFrosty": {
+      "commandName": "Executable",
+      "executablePath": "E:\\source\\repos\\FrostyToolsuite\\FrostyEditor\\bin\\Developer\\Debug\\FrostyEditor.exe",
+      "workingDirectory": "E:\\source\\repos\\FrostyToolsuite\\FrostyEditor\\bin\\Developer\\Debug\\"
+    }
+  }
+}
